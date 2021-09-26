@@ -2,7 +2,7 @@ import project_manager
 import sqlite3
 from tkinter import *
 
-
+#adarsh
 def details():
     root = Tk()
     root.geometry("330x400")
